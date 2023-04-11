@@ -2,8 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\LoopsProjectYF",
-    "\\LoopsProjectYF\\LoopsProjectYF"
+    "\\LoopsProjectYF\\LoopsProjectYF",
+    "\\LoopsProjectYF\\LoopsProjectYF\\bin\\Debug\\net5.0",
+    "\\LoopsProjectYF\\LoopsProjectYF\\bin\\Release",
+    "\\LoopsProjectYF\\LoopsProjectYF\\obj",
+    "\\LoopsProjectYF\\LoopsProjectYF\\obj\\Debug",
+    "\\LoopsProjectYF\\LoopsProjectYF\\obj\\Debug\\net5.0"
   ],
-  "SelectedNode": "\\LoopsProjectYF\\LoopsProjectYF\\Program.cs",
+  "SelectedNode": "\\LoopsProjectYF\\LoopsProjectYF\\bin",
   "PreviewInSolutionExplorer": false
 }
