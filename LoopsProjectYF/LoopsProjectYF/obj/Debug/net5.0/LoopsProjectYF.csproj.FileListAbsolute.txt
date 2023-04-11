@@ -1,0 +1,16 @@
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\bin\Debug\net5.0\LoopsProjectYF.exe
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\bin\Debug\net5.0\LoopsProjectYF.deps.json
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\bin\Debug\net5.0\LoopsProjectYF.runtimeconfig.json
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\bin\Debug\net5.0\LoopsProjectYF.runtimeconfig.dev.json
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\bin\Debug\net5.0\LoopsProjectYF.dll
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\bin\Debug\net5.0\ref\LoopsProjectYF.dll
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\bin\Debug\net5.0\LoopsProjectYF.pdb
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\obj\Debug\net5.0\LoopsProjectYF.csproj.AssemblyReference.cache
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\obj\Debug\net5.0\LoopsProjectYF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\obj\Debug\net5.0\LoopsProjectYF.AssemblyInfoInputs.cache
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\obj\Debug\net5.0\LoopsProjectYF.AssemblyInfo.cs
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\obj\Debug\net5.0\LoopsProjectYF.csproj.CoreCompileInputs.cache
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\obj\Debug\net5.0\LoopsProjectYF.dll
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\obj\Debug\net5.0\ref\LoopsProjectYF.dll
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\obj\Debug\net5.0\LoopsProjectYF.pdb
+C:\Users\Emily.fixico\source\repos\LoopsProject\LoopsProjectYF\LoopsProjectYF\obj\Debug\net5.0\LoopsProjectYF.genruntimeconfig.cache

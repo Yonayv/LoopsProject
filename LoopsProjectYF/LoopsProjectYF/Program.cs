@@ -6,9 +6,12 @@ namespace LoopsProjectYF
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Why do you want to make games?");
+            string response = Console.ReadLine();
+            Console.WriteLine($"The sentence, \"{response}\" has {CountNumberOfSpaces(response)} spaces in it.");
         }
 
+         
         static int CountNumberOfSpaces(string sentence)
         {
             int numberOfSpaces = 0;
