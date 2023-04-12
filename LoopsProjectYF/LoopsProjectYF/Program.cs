@@ -22,11 +22,14 @@ namespace LoopsProjectYF
 
         }
 
-         /// <summary>
-         /// 
-         /// </summary>
-         /// <param name="sentence"> The sentence to count number of spaces </param>
-         /// <returns></returns>
+        /// <summary>
+        /// Starts variable int at 0
+        /// Loops through each char in sentence
+        /// If char is a ' ' then numberOfSpaces increase by 1
+        /// When it gets to end of the loop its going to return to numberOfSpaces
+        /// </summary>
+        /// <param name="sentence"> The sentence to count number of spaces </param>
+        /// <returns>Number of spaces in the sentence</returns>
         static int CountNumberOfSpaces(string sentence)
         {
             int numberOfSpaces = 0;
@@ -40,6 +43,13 @@ namespace LoopsProjectYF
             return numberOfSpaces;
         }
 
+        /// <summary>
+        /// Loops through each sumOfDigits
+        /// Adds sumOfDigits to the sum
+        /// Converts the sum added to the sumOfDigits to int to look like string value
+        /// </summary>
+        /// <param name="number">Passes through string to loop through each char</param>
+        /// <returns>Returns int sum/sumofDigits</returns>
         static int SumOfDigits(string number)
         {
             int sum = 0;
